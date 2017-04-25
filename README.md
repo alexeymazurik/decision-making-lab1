@@ -1,7 +1,7 @@
 # Decision Making Lab #1
 
 ### Prerequisites
-**Required software**: python(3.6), pip(>=9.0.0), pyplot, numpy, jupyther-notebook
+**Required software**: python(3.6), pip(>=9.0.0), pyplot, numpy, jupyter-notebook
 
 ### Task
 Input data with the 2nd type questions:
